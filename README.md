@@ -49,3 +49,24 @@ for simple arrays System.out.println(Arrays.toString(numbers));
 
 deep to string is used to print multidiamensional arrays
 System.out.println(Arrays.deepToString(numbers));
+
+# Java Project Basics
+
+This project contains basic Java code examples, demonstrating various concepts such as arithmetic operations, casting, formatting numbers, and usage of the Math class.
+
+## Files
+
+1. `ArthmeticOperations.java`: This file demonstrates basic arithmetic operations, increment and decrement operators, compound assignment operators, and order of operations.
+
+2. `CastingInJava.java`: This file demonstrates implicit and explicit casting in Java, as well as casting with strings.
+
+3. `FormattingNumbers.java`: This file is intended to demonstrate number formatting in Java.
+
+4. `TheMathClass.java`: This file demonstrates the usage of various methods from the Math class in Java, such as `round`, `ceil`, `max`, `floor`, and `random`.
+
+## How to Run
+
+To run any of these files, navigate to the `src/javaprojectsbasics/` directory and use the `java` command followed by the filename (without the .java extension). For example:
+
+```bash
+java ArthmeticOperations
