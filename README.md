@@ -70,3 +70,17 @@ To run any of these files, navigate to the `src/javaprojectsbasics/` directory a
 
 ```bash
 java ArthmeticOperations
+# Reading Input in Java
+
+This file, `ReadingInput.java`, demonstrates how to read input from the user in Java.
+
+## File Description
+
+`ReadingInput.java`: This file uses the `Scanner` class from the `java.util` package to read user input from the console. It prompts the user to enter their name and age, and then prints these values back to the console.
+
+## How to Run
+
+To run this file, navigate to the `src/javaprojectsbasics/` directory and use the `java` command followed by the filename (without the .java extension). For example:
+
+```bash
+java ReadingInput
